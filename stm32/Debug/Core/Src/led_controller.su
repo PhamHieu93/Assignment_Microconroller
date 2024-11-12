@@ -1,0 +1,6 @@
+led_controller.c:306:6:clear_all_led	8	static
+led_controller.c:312:6:turn_all_led	8	static
+led_controller.c:397:6:changeState	16	static
+led_controller.c:426:6:changeBlink	4	static
+led_controller.c:450:6:addTime	4	static
+led_controller.c:471:6:LCD_display	112	static
